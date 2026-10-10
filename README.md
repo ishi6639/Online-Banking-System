@@ -20,7 +20,7 @@ The **Online Banking System** is designed to demonstrate mission-critical bankin
 
 ---
 
-## 2. Features.
+## 2. Features
 
 ### Customer Portal
 - **Dashboard & Account Overview:** Real-time checking and savings account balances, masked account numbers, and recent transaction timeline.
@@ -30,7 +30,7 @@ The **Online Banking System** is designed to demonstrate mission-critical bankin
 - **Banking Services:** Loan calculator and investment service modules.
 - **Profile Management:** View and update personal profile, email, contact information, and security password with BCrypt verification.
 
-### Administrator Portal.
+### Administrator Portal
 - **Operational Metrics & Analytics:** Real-time KPI summaries including total deposits, total accounts, active users, and transaction volume aggregations.
 - **User Management (CRUD):** Searchable user directory, role assignments (Customer, Admin), status toggles (Active, Suspended), and profile updates.
 - **Live Transaction Monitoring:** Global transaction audit logs with sorting and detailed transaction trace inspection.
@@ -38,7 +38,7 @@ The **Online Banking System** is designed to demonstrate mission-critical bankin
 
 ---
 
-## 3. Technology Stack
+## 3. Technology Stack.
 
 | Component | Technology | Version / Specification | Rationale |
 | :--- | :--- | :--- | :--- |
